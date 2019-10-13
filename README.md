@@ -1,4 +1,4 @@
 ## README.rm
-## Authored By: Jaykumar Menon - MAXIMUS
+## Authored By: Jaykumar Menon
 ##
 ## Azure Sample application
