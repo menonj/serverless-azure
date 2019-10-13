@@ -1,3 +1,4 @@
 ## README.rm
-## Jaykumar Menon - MAXIMUS
-# FIRST AZURE SERVERLESS FILE
+## Authored By: Jaykumar Menon - MAXIMUS
+##
+## Azure Sample application
